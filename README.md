@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-red?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Projects-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
 </p>
 
