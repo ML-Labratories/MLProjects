@@ -100,8 +100,7 @@ More detailed explanations are available inside each project's **README file**.
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/Machine_Learning_Projects.git
-cd Machine_Learning_Projects
+git clone https://github.com/ML-Labratories/MLProjects.git
 ```
 
 Install dependencies:
