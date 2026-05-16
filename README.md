@@ -1,7 +1,6 @@
 # Machine Learning Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Portfolio-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-red?style=for-the-badge&logo=jupyter&logoColor=white"/>
