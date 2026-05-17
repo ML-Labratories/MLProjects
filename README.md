@@ -46,7 +46,7 @@ Machine_Learning_Projects
 │   ├── data_cleaning.ipynb
 │   ├── eda.ipynb
 │   ├── model.ipynb
-│   ├── utils.txt
+│   ├── utils.py
 │   ├── requirements.txt
 │   └── README.md
 │
