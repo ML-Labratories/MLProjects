@@ -19,10 +19,10 @@ Each project in this repository follows a typical machine learning pipeline:
 
 ```
 Data Collection
+     ↓
+Exploratory Data Analysis (EDA)
       ↓
 Data Cleaning
-      ↓
-Exploratory Data Analysis (EDA)
       ↓
 Feature Engineering
       ↓
